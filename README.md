@@ -1,9 +1,9 @@
 # N3N3.Room
 var bot = new Bot(
 "wss://highrise.game/web/webapi",
-<ROOM_ID>,
+<https:/high.rs/room?id=61215d54bd527237312c42a10>,
 <API_TOKEN>);
 <64269ba4a97f57c7b97c1c45>,
-<6eea363ea1662fa8cc7fa31712e0efc6336209469820c4cf0ebc7cc110fd0721>);
+<10fd30f94ccd64d7448ec9d8731f907712a368f08788776fdc4a668608394f6e>);
 
 <Name> Welcome
