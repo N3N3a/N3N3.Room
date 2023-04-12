@@ -9,3 +9,21 @@ var bot = new Bot(
 
 
 <Name> Welcome
+  
+  $ pip install highrise-bot-sdk==23.1.0b5
+  class Bot (BaseBot):
+  pass
+  $ highrise mybot:Bot <room_ID> <API_token>
+  
+  (self.highrise.get_room_privilege(user_id)
+  (self.highrise.set_room_privilege(user_id, privilege)).
+  (self.highrise.moderate_room(user_id, moderate_action, action_length)).
+  
+  (chat.send_whisper, send_emote, react, set_indicator, send_channel_ walk_to, teleport)
+  None
+  highrise.ResponseError
+  
+  (self.highrise.get_wallet()).
+  
+  
+  
